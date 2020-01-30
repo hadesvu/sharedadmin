@@ -1,0 +1,11 @@
+{
+  "devices": [
+    { "id": 1, "name": "hello" },
+	{ "id": 2, "name": "world" }
+  ],
+  "inmmates": [
+    { "id": 1, "name": "vu" },
+	{ "id": 2, "name": "le" }
+  ]
+  
+}
