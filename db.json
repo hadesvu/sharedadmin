@@ -1,7 +1,9 @@
 {
   "devices": [
     { "id": 1, "name": "hello" },
-	{ "id": 2, "name": "world" }
+	{ "id": 2, "name": "world" },
+	   { "id": 4, "name": "hello2" },
+	{ "id": 3, "name": "world2" }
   ],
   "inmmates": [
     { "id": 1, "name": "vu" },
