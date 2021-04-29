@@ -1,35 +1,22 @@
-[
-    {
-        "author": "Hidden Brain",
-        "auto_delete_action": 0,
-        "auto_download": 1,
-        "custom_title": null,
-        "description": "Shankar Vedantam uses science and storytelling to reveal the unconscious patterns that drive human behavior, shape our choices and direct our relationships.",
-        "download_url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss",
-        "downloaded": 1,
-        "exclude_filter": "",
-        "feed_identifier": null,
-        "feed_playback_speed": -1.0,
-        "feed_skip_ending": 0,
-        "feed_skip_intro": 0,
-        "feed_volume_adaption": 0,
-        "file_url": "/storage/emulated/0/Android/data/de.danoeh.antennapod/files/cache/feed-Hidden Brain",
-        "hide": "",
-        "id": 2,
-        "image_url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/image.jpg?t=1601486368&size=Large",
-        "include_filter": "",
-        "is_paged": 0,
-        "keep_updated": 1,
-        "language": "en-us",
-        "last_update": "W/\"7bbc6b37fd48eca7934ab29a0653e036d6744550\"",
-        "last_update_failed": 0,
-        "link": "https://hiddenbrain.org/",
-        "next_page_link": null,
-        "password": null,
-        "payment_link": null,
-        "sort_order": null,
-        "title": "Hidden Brain",
-        "type": "rss",
-        "username": null
+{
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
     }
-]
+}
