@@ -1,14 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Feeds": [
+    {
+      "id": 2,
+      "title": "Hidden Brain",
+      "custom_title": null,
+      "file_url": "/storage/emulated/0/Android/data/de.danoeh.antennapod/files/cache/feed-Hidden Brain",
+      "download_url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss",
+      "downloaded": 1,
+      "link": "https://hiddenbrain.org/",
+      "description": "Shankar Vedantam uses science and storytelling to reveal the unconscious patterns that drive human behavior, shape our choices and direct our relationships.",
+      "payment_link": null,
+      "last_update": "W/\"7bbc6b37fd48eca7934ab29a0653e036d6744550\"",
+      "language": "en-us",
+      "author": "Hidden Brain",
+      "image_url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/image.jpg?t=1601486368&size=Large",
+      "type": "rss",
+      "feed_identifier": null,
+      "auto_download": 1,
+      "username": null,
+      "password": null,
+      "include_filter": "",
+      "exclude_filter": "",
+      "keep_updated": 1,
+      "is_paged": 0,
+      "next_page_link": null,
+      "hide": "",
+      "sort_order": null,
+      "last_update_failed": 0,
+      "auto_delete_action": 0,
+      "feed_playback_speed": -1,
+      "feed_volume_adaption": 0,
+      "feed_skip_intro": 0,
+      "feed_skip_ending": 0
+    }
+  ]
 }
